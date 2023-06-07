@@ -11,5 +11,4 @@
 # Task-3 EMAIL SPAM DETECTION WITH MACHINE LEARNING
 
 "We have all experienced the annoyance of receiving spam emails. Spam mail, also known as junk mail, refers to unsolicited emails sent to a large number of recipients. These messages often contain obscure content, scams, or even more concerning, phishing attempts.
-
 In this project, you can leverage Python to construct an email spam detector. By utilizing machine learning techniques, you will train the spam detector to identify and categorize emails as either spam or non-spam. Let's commence this exciting endeavor!"
